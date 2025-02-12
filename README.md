@@ -3,6 +3,7 @@
 *version: 2025.02.12 (semantic release disabled - no major patch expected. Stable release*
 
 ## 🚀 Staff Software Engineering Manager @ sennder. My focus is on our Data Platform :)
+We use Gitlab, and my professional account is not public.
 
 ## 🔧 What I Do
 - Lead the Data Platform team at sennder, supporting 200+ engineers, analysts, and product teams.
