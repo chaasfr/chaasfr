@@ -38,7 +38,7 @@ I have a wide range of expertise, from technical skills to people leadership and
 ## 📫 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/christianhaasfrangi/)
 - 🛠️ [GitHub](https://github.com/chaasfr)
-- 📧 [email](mailto:chaasfr+github@gmail.com)
+- 📧 [Email](mailto:chaasfr+github@gmail.com)
 
 ## ⚡ Fun Fact
 I have a strong competitive gamer past. I was officer in a top 3 EU/NA guild in a MMORPG at its release (Aion) 😎
