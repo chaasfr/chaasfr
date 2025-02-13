@@ -1,6 +1,6 @@
 
 # 👋 Hi, I am Christian!
-*version: 2025.02.12 (semantic release disabled - no major patch expected. Stable release*
+*version: 2025.02.12 (semantic release disabled - no major patch expected. Stable release)*
 
 ## 🚀 Staff Software Engineering Manager @ sennder. My focus is on our Data Platform :)
 We use Gitlab, and my professional account is not public.
