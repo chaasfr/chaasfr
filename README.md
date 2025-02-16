@@ -1,6 +1,6 @@
 
 # 👋 Hi, I am Christian!
-*version: 2025.02.12 (semantic release disabled - no major patch expected. Stable release)*
+*version: 2025.02.14 (semantic release disabled - no major patch expected. Stable release)*
 
 ## 🚀 Staff Software Engineering Manager @ sennder. My focus is on our Data Platform :)
 We use Gitlab, and my professional account is not public.
@@ -25,8 +25,9 @@ Open-source tooling & libraries, especially in:
 
 - AI & ML
 - Data processing
-- Gaming & game analytics
 - Sports & fitness tech
+- Gaming & game analytics
+
 ## 💬 Ask Me About
 I have a wide range of expertise, from technical skills to people leadership and product management!
 
