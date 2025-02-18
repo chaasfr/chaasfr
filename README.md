@@ -3,7 +3,6 @@
 *version: 2025.02.18 (semantic release disabled - no major patch expected. Stable release)*
 
 ## 🚀 Staff Software Engineering Manager @ sennder. My focus is on our Data Platform :)
-We use Gitlab, and my professional account is not public.
 
 ## 🔧 What I Do
 - Lead the Data Platform team at sennder, supporting 200+ engineers, analysts, and product teams.
@@ -38,7 +37,7 @@ I have a wide range of expertise, from technical skills to people leadership and
 
 ## 📫 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/christianhaasfrangi/)
-- 🛠️ [GitHub](https://github.com/chaasfr)
+- 🛠️ [GitHub](https://github.com/chaasfr) (non-work related stuff only)
 - 📧 [Email](mailto:chaasfr+github@gmail.com)
 
 ## ⚡ Fun Fact
